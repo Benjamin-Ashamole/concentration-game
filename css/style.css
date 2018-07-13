@@ -1,3 +1,7 @@
+body {
+  background-color: red;
+}
+
 .board-container {
   height: 370px;
   width: 370px;
